@@ -1,6 +1,6 @@
 # atividade1
 
-* Atividede do curso Técnico Senac de Desenvolvimento de Sistemas. 
+* Atividade 1 da Unidade Corricurar 06 do curso Técnico Senac de Desenvolvimento de Sistemas. 
 
 ## Sobre a atividade
 
