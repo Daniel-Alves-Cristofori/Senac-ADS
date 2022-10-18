@@ -1,6 +1,6 @@
-# ativideade1(UC06)
+# ativideade1
 
-* Atividede 1 da Unidade Curricurar 06 do curso Senac de Desenvolvimento de Sistemas. 
+* Atividede do curso Técnico Senac de Desenvolvimento de Sistemas. 
 
 ## Sobre a atividade
 
